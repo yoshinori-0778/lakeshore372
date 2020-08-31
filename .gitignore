@@ -1,0 +1,5 @@
+__pycache__
+backup
+*~
+/lakeshore.lock
+/lakeshore.log
